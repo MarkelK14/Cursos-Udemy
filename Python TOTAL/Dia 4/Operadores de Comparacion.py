@@ -1,0 +1,6 @@
+print(10==5+5)
+print('blanco' == 'Blanco'.lower())
+print(100==100.00)
+print(100!=99)
+print(5>3)
+print(3<=9)
